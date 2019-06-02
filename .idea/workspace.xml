@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a89b7c0e-732d-4ea1-918f-1860724a73c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jscraper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jscraper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jscraper-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jscraper-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jscraper-app/src/test/java/ScraperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jscraper-app/src/test/java/com/shako/scraper/ScraperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jscraper-app/.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/jscraper-app/target/" />
@@ -25,7 +24,7 @@
               <entry file="file://$PROJECT_DIR$/jscraper-app/pom.xml">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="930">
-                    <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+                    <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
                     <folding>
                       <element signature="n#dependency#2;n#dependencies#0;n#dependencyManagement#0;n#project#0;n#!!top" />
                       <element signature="n#dependency#3;n#dependencies#0;n#dependencyManagement#0;n#project#0;n#!!top" />
@@ -92,14 +91,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jscraper-app/src/test/java/com/shako/scraper/ScraperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="254">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -143,12 +151,13 @@
         <option value="$PROJECT_DIR$/jscraper-app/src/test/java/ScraperSearchTest.java" />
         <option value="$PROJECT_DIR$/jscraper-app/src/main/java/r/R.java" />
         <option value="$PROJECT_DIR$/jscraper-app/src/main/java/Runner.java" />
-        <option value="$PROJECT_DIR$/jscraper-app/.gitignore" />
         <option value="$PROJECT_DIR$/jscraper-app/src/main/java/com/shako/scraper/Runner.java" />
         <option value="$PROJECT_DIR$/jscraper-app/src/test/java/ScraperTest.java" />
         <option value="$PROJECT_DIR$/jscraper-app/src/test/java/com/shako/scrapter/ScraperTest.java" />
         <option value="$PROJECT_DIR$/jscraper-app/pom.xml" />
         <option value="$PROJECT_DIR$/jscraper-app/src/test/java/com/shako/scraper/ScraperTest.java" />
+        <option value="$PROJECT_DIR$/jscraper-app/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -158,6 +167,12 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -177,61 +192,7 @@
           <expand>
             <path>
               <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
               <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-              <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-              <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-              <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-              <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scraper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-              <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscraper" type="462c0819:PsiDirectoryNode" />
-              <item name="jscraper-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -247,6 +208,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jscraper-app/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -339,7 +301,7 @@
       <workItem from="1559483976003" duration="1230000" />
       <workItem from="1559485272683" duration="11482000" />
       <workItem from="1559510445034" duration="657000" />
-      <workItem from="1559511126845" duration="301000" />
+      <workItem from="1559511126845" duration="737000" />
     </task>
     <servers />
   </component>
@@ -376,7 +338,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13670000" />
+    <option name="totallyTimeSpent" value="14106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="1072" width="1936" height="1066" extended-state="0" />
@@ -400,7 +362,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3299285" />
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3296875" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
@@ -517,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jscraper-app/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jscraper-app/src/main/java/com/shako/scraper/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -571,7 +526,7 @@
     <entry file="file://$PROJECT_DIR$/jscraper-app/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
-          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
           <folding>
             <element signature="n#dependency#2;n#dependencies#0;n#dependencyManagement#0;n#project#0;n#!!top" />
             <element signature="n#dependency#3;n#dependencies#0;n#dependencyManagement#0;n#project#0;n#!!top" />
@@ -585,13 +540,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jscraper-app/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jscraper-app/src/test/java/com/shako/scraper/ScraperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="254">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
