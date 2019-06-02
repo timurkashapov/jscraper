@@ -1,3 +1,5 @@
+package com.shako.scraper;
+
 import com.shako.scraper.data.InputData;
 import com.shako.scraper.engine.ScraperEngine;
 import com.shako.scraper.engine.ScraperFacade;
@@ -17,7 +19,6 @@ public class ScraperTest {
         assertTrue(!htmlTitle.isEmpty());
     }
 
-    @Test
     public void search() {
         ScraperFacade scraperFacade = new ScraperFacade();
         InputData inputData = new InputData(R.exapmleUrl);
