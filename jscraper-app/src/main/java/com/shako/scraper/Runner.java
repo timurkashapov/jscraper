@@ -1,5 +1,6 @@
-import engine.ScraperFacade;
-import r.R;
+package com.shako.scraper;
+
+import com.shako.scraper.engine.ScraperFacade;
 
 /**
  *

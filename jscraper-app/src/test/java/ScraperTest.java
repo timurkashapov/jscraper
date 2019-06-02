@@ -1,8 +1,8 @@
-import data.InputData;
-import engine.ScraperEngine;
-import engine.ScraperFacade;
+import com.shako.scraper.data.InputData;
+import com.shako.scraper.engine.ScraperEngine;
+import com.shako.scraper.engine.ScraperFacade;
 import org.junit.jupiter.api.Test;
-import r.R;
+import com.shako.scraper.r.R;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;

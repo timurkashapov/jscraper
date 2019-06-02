@@ -1,4 +1,4 @@
-package r;
+package com.shako.scraper.r;
 
 public interface R {
 

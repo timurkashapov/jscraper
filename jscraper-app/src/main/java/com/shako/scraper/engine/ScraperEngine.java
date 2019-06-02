@@ -1,8 +1,8 @@
-package engine;
+package com.shako.scraper.engine;
 
-import data.InputData;
-import data.OutputData;
-import data.format.OutputDataFormat;
+import com.shako.scraper.data.InputData;
+import com.shako.scraper.data.OutputData;
+import com.shako.scraper.data.format.OutputDataFormat;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 

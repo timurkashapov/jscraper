@@ -1,4 +1,4 @@
-package data;
+package com.shako.scraper.data;
 
 public class InputData {
     private String scraperUrl;

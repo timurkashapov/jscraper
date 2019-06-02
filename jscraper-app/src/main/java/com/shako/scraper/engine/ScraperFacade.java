@@ -1,7 +1,7 @@
-package engine;
+package com.shako.scraper.engine;
 
-import data.InputData;
-import data.OutputData;
+import com.shako.scraper.data.InputData;
+import com.shako.scraper.data.OutputData;
 
 public class ScraperFacade {
     private ScraperEngine scraperEngine;
